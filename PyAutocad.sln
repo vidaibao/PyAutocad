@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "UdemyPyAcad", "UdemyPyAcad\UdemyPyAcad.pyproj", "{38FBC5A6-19B9-4001-8F0E-7833409AF898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38FBC5A6-19B9-4001-8F0E-7833409AF898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38FBC5A6-19B9-4001-8F0E-7833409AF898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9D9DEEA-A59D-450A-A4A5-B70383540430}
+	EndGlobalSection
+EndGlobal
